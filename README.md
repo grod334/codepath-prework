@@ -47,7 +47,7 @@ My 3 favorite apps are:
    the autoplay feature so I can view them without ads.
    
 
-   The app I use most is the messenger app. The messenger app has a feature where peoplecan react to a text with a heart, thumbs up, haha, and others. I think it would be interested to add a feature where the user could click on a button that would give them the stats related to these reactions. For example, which text got the most replies, laughs, or thumbs down. I think it would be interesting to get a year in review for group chats where the user gets some kind of stats for reactions, sharing pictures, sharing links, etc.
+   The app I use most is the messenger app. The messenger app has a feature where people can react to a text with a heart, thumbs up, haha, and others. I think it would be interested to add a feature where the user could click on a button that would give them the stats related to these reactions. For example, which text got the most replies, laughs, or thumbs down. I think it would be interesting to get a year in review for group chats where the user gets some kind of stats for reactions, sharing pictures, sharing links, etc.
 
 
 ## Notes
