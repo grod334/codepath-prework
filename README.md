@@ -4,7 +4,7 @@ Submitted by: Glenn Roderick
 
 preworkProj is an app that has a button. When that button is clicked on by the user, The background color changes.
 
-Time spent: 1.5 hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -35,16 +35,20 @@ My 3 favorite apps are:
    My Favorite feature of Gmail is labels. Labels allows the user to organize emails into categories. These categories can be the default categories or the user can
    customize their own.
    
-3. ESPN
+2. ESPN
 
    My favorite features on the ESPN app is the video highlights and favorites. As soon as the user opens the app, a video of the top sports highlights plays instantly.
    For the favorite section, ESPN shows the user specific news and score updates from your favorite team.
    
-5. YouTube
+3. YouTube
 
    I like the autoplay feature. I enjoy watching basketball highlights and this feature is great for basketball clips. I can scroll through all of the videos
    without clicking on the video. Its fast and easy to switch videos. Also, once you click on a video, an ad will popup. When I watch highlights, I strictly use
    the autoplay feature so I can view them without ads.
+   
+
+   The app I use most is the messenger app. The messenger app has a feature where peoplecan react to a text with a heart, thumbs up, haha, and others. I think it would be interested to add a feature where the user could click on a button that would give them the stats related to these reactions. For example, which text got the most replies, laughs, or thumbs down. I think it would be interesting to get a year in review for group chats where the user gets some kind of stats for reactions, sharing pictures, sharing links, etc.
+
 
 ## Notes
 
