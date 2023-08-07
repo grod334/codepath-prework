@@ -2,9 +2,9 @@
 
 Submitted by: Glenn Roderick
 
-prework is an app that... [TODO] 
+preworkProj is an app that has a button. When that button is clicked on by the user, The background color changes.
 
-Time spent: **X** hours spent in total
+Time spent: 1.5 hours spent in total
 
 ## Required Features
 
@@ -28,9 +28,30 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ## App Brainstorming (Step 4)
 
+My 3 favorite apps are:
+
+1. Gmail
+
+   My Favorite feature of Gmail is labels. Labels allows the user to organize emails into categories. These categories can be the default categories or the user can
+   customize their own.
+   
+3. ESPN
+
+   My favorite features on the ESPN app is the video highlights and favorites. As soon as the user opens the app, a video of the top sports highlights plays instantly.
+   For the favorite section, ESPN shows the user specific news and score updates from your favorite team.
+   
+5. YouTube
+
+   I like the autoplay feature. I enjoy watching basketball highlights and this feature is great for basketball clips. I can scroll through all of the videos
+   without clicking on the video. Its fast and easy to switch videos. Also, once you click on a video, an ad will popup. When I watch highlights, I strictly use
+   the autoplay feature so I can view them without ads.
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges that I encountered.
+
+I had the most trouble with the gif walkthrough. At first, I couldnt figure out how to get my gif to display in my readme file. I googled how to do it and after looking
+at a couple resources, I figured out how to do it. 
 
 ## License
 
